@@ -1,0 +1,6 @@
+Comments are used to describe about the tag and execution of that particular line in that code so that the other user can be 
+can be able to understand the code more easily. Moreover it improves the readiblity of that code
+Lets take an example that
+<!-- Here the image has to be loaded-->
+<p><img src="myphoto.jpg" alt="Image of me"></p>
+<!--This is a comment dear-->. Beside line is used to insert comment in the code and that was the syntax of that comment line
